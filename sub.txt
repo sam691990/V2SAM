@@ -7,4 +7,4 @@ vless://cf6ebba9-99a9-4e47-9c9b-20493f31cc0f@84.201.168.186:443/?type=tcp&encryp
 vless://6b5c3575-5f96-4d8d-a81e-1eed6e97fc7c@84.201.172.166:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=random&security=reality&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&sid=3c1523da43287ec4#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2340
 vless://5de93b54-dd21-4683-a929-c9cd74fcb521@77.233.221.8:443/?type=grpc&encryption=none&flow=&serviceName=moktana.net.v1.StreamService&sni=us.moktana.app&fp=chrome&security=reality&pbk=_yzmX8WwaZJD4ddVgOZWJsx6r0lJzhTrTbkQLhwiWXk&sid=6a8cbbe13bd1a18e#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%E2%80%94%20%23137
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-
+vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&sid=f7aa9e61197d3ac6#v2raygulf%20%282%29
